@@ -1,6 +1,6 @@
 library(shiny)
 
-ui <- navbarPage("Taller de Investigación",
+ui <- navbarPage("Taller de Objetivos y Diseño",
                  
                  tags$head(
                    tags$style(HTML("
